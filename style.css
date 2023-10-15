@@ -30,6 +30,9 @@ header {
     object-fit: cover;
     z-index: -100;
 }
+audio::-webkit-media-controls-panel {
+    background-color: #DFD3C3;
+}
 .card {
     width: 300px;
     height: 150px;
